@@ -1,0 +1,21 @@
+MANAGER:
+JOHN HENRY COOPER | jhcoop@udel.edu | 702587870
+GROUP MEMBERS:
+AIDAN EYRE | aweyre@udel.edu | 702605152
+
+INSTRUCTIONS TO COMPILE:
+
+make all
+make run
+
+NOTE:
+
+Sometimes the program will not work properly and arrow key input does not do anything. If this is the case,
+please try exiting the program and entering:
+
+reset
+make clean
+make all
+make run
+
+Additionally, the speed can be changed, but is extremely fast to begin with.
