@@ -1,7 +1,11 @@
 MANAGER:
-JOHN HENRY COOPER | jhcoop@udel.edu | 702587870
+JOHN HENRY COOPER | jhcoop@udel.edu
 GROUP MEMBERS:
-AIDAN EYRE | aweyre@udel.edu | 702605152
+AIDAN EYRE | aweyre@udel.edu
+
+Displays A letter that can be scrolled across the screen in any combination of directions and at any speed.
+The letter can be cycled by pressing ENTER
+The speed and direction can be changed with ARROW KEYS
 
 INSTRUCTIONS TO COMPILE:
 
@@ -18,4 +22,3 @@ make clean
 make all
 make run
 
-Additionally, the speed can be changed, but is extremely fast to begin with.
